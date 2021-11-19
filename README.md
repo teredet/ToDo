@@ -1,4 +1,5 @@
 # ToDo<br />
+To-Do Website on Django. With a beautiful design, authorization and search for tasks. And with a counter of uncompleted tasks.<br />
 ## Main page
 ![alt text](img/1.png)
 
